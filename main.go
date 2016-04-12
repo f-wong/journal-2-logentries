@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/f-wong/journal-2-logentries/journal"
-	"github.com/kelseyhightower/journal-2-logentries/logentries"
+	"github.com/f-wong/journal-2-logentries/logentries"
 )
 
 func main() {
