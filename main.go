@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/kelseyhightower/journal-2-logentries/journal"
+	"github.com/f-wong/journal-2-logentries/journal"
 	"github.com/kelseyhightower/journal-2-logentries/logentries"
 )
 
